@@ -1,0 +1,8 @@
+{
+  "name": "ziped-proxy-demo",
+  "version": "1.0.0",
+  "description": "ZIPED demo proxy + tabbed UI for Netlify",
+  "main": "netlify/functions/proxy.js",
+  "scripts": {},
+  "dependencies": {}
+}

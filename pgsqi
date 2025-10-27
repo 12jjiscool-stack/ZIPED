@@ -1,0 +1,10 @@
+/ (root)
+├─ netlify.toml
+├─ package.json
+├─ netlify/
+│  └─ functions/
+│     └─ proxy.js
+└─ public/
+   ├─ index.html
+   ├─ app.js
+   └─ styles.css
